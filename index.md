@@ -80,12 +80,12 @@ The course provides an overview of molecular modeling and simulations methods in
 <!--- <a href="https://intbio.org/mol_model_course_2023/workshops/workshop1"> Протокол семинара </a> --->
      
 </details>
-
+<!--- 
 <details><summary><ins>Самостоятельная работа 1</ins></summary> 
  см. протокол семинара
      
 </details>
-
+--->
 <details><summary><ins>Suggested reading</ins></summary>
      
 - <a href="https://www.dropbox.com/s/vlkpzaiz0twzlsl/mol_model_history.pdf?dl=0">Методы молекулярного и интегративного моделирования в структурной биологии</a>
@@ -99,16 +99,16 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 
 #### Модуль 2. Структурная биоинформатика (2 недели).
-<details><summary><ins>Лекция 2</ins></summary> Форматы хранения информации о структуре молекул (PDB, mmCIF, mol2, Z-матрицы и др.). Формат PDB, поля формата. Происхождение структурной информации, основные экспериментальные методы, представление данных. Элементарная ячейка кристалла, асиметричная единица, понятие BioAssembly, кристаллографическая и некристаллографическая симметрии структур. PDB: B-факторы, occupancy. PDB: специфика ЯМР структур. Правила описания белков, нуклеиновых кислот, липидов, лигандов. Тяжелоатомные и протонированные модели. Протонирование моделей. Базы данных структур. Базы PDB, NDB, MMDB, CCDC, EMDB. Поиск в базах данных, поиск по последовательности и по структуре. Форматы записи электронной плотности. Типичные проблемы в структурах, ротамеры боковых цепей. Определение качества PDB структур. Программы анализа качества структур. 
+<details><summary><ins>Лекция 2</ins></summary> Форматы хранения информации о структуре молекул (PDB, mmCIF, mol2, Z-матрицы и др.). Формат PDB, поля формата. Происхождение структурной информации, основные экспериментальные методы, представление данных. Основы методов РСА, ЯМР, криоЭМ. Элементарная ячейка кристалла, асиметричная единица, понятие BioAssembly, кристаллографическая и некристаллографическая симметрии структур. PDB: B-факторы, occupancy. PDB: специфика ЯМР структур. Правила описания белков, нуклеиновых кислот, липидов, лигандов. Тяжелоатомные и протонированные модели. Протонирование моделей. Базы данных структур. Базы PDB, NDB, MMDB, CCDC, EMDB. Поиск в базах данных, поиск по последовательности и по структуре. Форматы записи электронной плотности. Типичные проблемы в структурах, ротамеры боковых цепей. Определение качества PDB структур. Программы анализа качества структур. 
 
 
 <a href="https://www.dropbox.com/s/lh6w1280fghwxnc/Lecture2.ppt?dl=0">Слайды лекции.</a> 
 </details>
-<details><summary><ins>Required reading</ins></summary>
+<details><summary><ins>Suggested reading</ins></summary>
   - <a href="https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction">Introduction to PDB Data</a>
  </details>
  
-<details><summary><ins>Suggested reading</ins></summary>
+<details><summary><ins>Additional reading</ins></summary>
  - <a href="ftp://ftp.wwpdb.org/pub/pdb/doc/format_descriptions/Format_v33_A4.pdf">PDB format description</a>
 </details>
 
