@@ -57,9 +57,10 @@ A set of PDB structures of a macromolecular complex in different conformations w
 Each student should take a unique problem.
 1. Make analysis of heaemoglobin and Oxy-deoxy transition (see [https://pdb101.rcsb.org/motm/41](https://pdb101.rcsb.org/motm/41))
 2. Make analysis of opening and closing of potassium ion channels (see [https://pdb101.rcsb.org/motm/41](https://pdb101.rcsb.org/motm/41))
-3. Analyze nucleosomal DNA unwrapping (1KX5 - wrapped nucleosome, 6ESH - unwrapped)
-4. Make analysis of Spike-protein (see [https://pdb101.rcsb.org/motm/246](https://pdb101.rcsb.org/motm/246))
-5. Any molecule of the month that has more than one conformational state ([https://pdb101.rcsb.org/motm/motm-by-date](https://pdb101.rcsb.org/motm/motm-by-date))
+3. Make analysis of Spike-protein (see [https://pdb101.rcsb.org/motm/246](https://pdb101.rcsb.org/motm/246))
+4. Any molecule of the month that has more than one conformational state ([https://pdb101.rcsb.org/motm/motm-by-date](https://pdb101.rcsb.org/motm/motm-by-date))
+
+[Ссылка для записи выбранного задания](https://docs.google.com/spreadsheets/d/1bwgIFdAGaqwZIRV_e6Oj4_r9xcj3EWDNmscxLoHLLwc/edit?usp=sharing)
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
