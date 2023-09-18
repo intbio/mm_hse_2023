@@ -10,6 +10,7 @@
 
 ### Meetings and Location
 - Classroom:
+  
 1 модуль: 
 12 и 19 сентября - D210
 с 26 сентября до 24 октября - D507
@@ -20,13 +21,8 @@
 
 - Lectures-Seminars: Fridays 18:10-21:00
 
-
-
-### Credits
-2 credits, 72 academic hours
-
 ### Course Description
-The course provides an overview of molecular modeling and simulations methods in biology with an emphasis on 3D modeling of biomolecular structures. Covered topics include: viewing and analyzing PDB structures, structural bioinformatics, molecular dynamics simulations, Monte-Carlo simulations, coarse-grained modeling, molecular screening, docking, model building from experimental data, integrative modeling, quantum chemistry calculations, and protein structure prediction.  The course includes both lectures, hands-on exercises, and home assignments.  
+The course provides an overview of molecular modeling and simulations methods in biology with an emphasis on 3D modeling of biomolecular structures. Covered topics include: viewing and analyzing PDB structures, structural bioinformatics, molecular dynamics simulations, Monte-Carlo simulations, coarse-grained modeling, molecular screening, docking, integrative modeling, quantum chemistry calculations, protein structure prediction, protein design, application of AI methods from protein design and prediction. The course includes both lectures, hands-on exercises, and home assignments.  
 
 ### Learning objectives
 - To understand:
@@ -38,8 +34,8 @@ The course provides an overview of molecular modeling and simulations methods in
      - run basic MD simulations.
      - do comparative protein modeling and use protein structure prediction tools.
      - use protein design tools
-     - Run basic docking simulations.
-     - Run basic quantum chemistry simulations.
+     - run basic docking simulations.
+     - run basic quantum chemistry simulations.
 
  
 ### Textbooks and learning resources
@@ -56,19 +52,17 @@ The course provides an overview of molecular modeling and simulations methods in
 
 ### Required resources
  1. Laptop or workstation with access to internet.
- 2. Web-cam in case of distant learning.
- 2. An account on Newton Server https://newton.bioeng.ru See instructions [here](https://github.com/intbio/IT_notes/blob/master/newton_cheatsheet.md).
- 3. [Pymol](https://pymol.org/2/) installed locally on your workstation/laptop.
+ 2. [Pymol](https://pymol.org/2/) installed locally on your workstation/laptop.
  4. [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) installed locally on your workstation/laptop.
  5. [VMD](https://www.ks.uiuc.edu/Research/vmd/) installed locally on your workstation/laptop.
  6. [Avogadro](https://avogadro.cc) installed locally on your workstation/laptop.
+ 7. [Gromacs](https://www.gromacs.org) installed locally.
 
 ### Course calendar
 - Dates: 12/09/2023; 19/09/2023 ; 26/09/2023 ; 3/10/2023 ; 17/10/2021 ; 24/10/2023 ; 7/11/2023 ; 14/11/2023 ; 21/11/2023 ; 28/11/2023 ; 5/12/2023 ; 12/12/2023 ; 19/12/2023;  
 
 ### Attendance policy
-- 100% attendance is required
-- For every missed lecture a paper no less than 1500 words is required explaining the lecture contents.
+- Attending lectures and seminars is strongly encouraged.
 
 ### Assignments policy
 - Assignments are due in two weeks.
@@ -98,16 +92,15 @@ The course provides an overview of molecular modeling and simulations methods in
      
 </details>
 
-<details><summary><ins>Required reading</ins></summary>
+<details><summary><ins>Suggested reading</ins></summary>
      
 - <a href="https://www.dropbox.com/s/vlkpzaiz0twzlsl/mol_model_history.pdf?dl=0">Методы молекулярного и интегративного моделирования в структурной биологии</a>
-</details>
-
-<details><summary><ins>Suggested reading</ins></summary>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980623/">John Kendrew and myoglobin: Protein structure determination in the 1950s</a><br>
 - <a href="https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.12796">A brief history of macromolecular crystallography, illustrated by a family tree and its Nobel fruits</a><br>
 - <a href="https://library.lanl.gov/cgi-bin/getfile?00326866.pdf">Metropolis, N. The Beginnig of the Monte Carlo Method</a><br>
 - <a href="https://www.dropbox.com/s/cnvazv8n78ximdp/%D0%A8%D0%BD%D0%BE%D0%BB%D1%8C%D0%AD%D0%AD-%D0%93%D1%80%D0%B8%D0%B2%D1%86%D0%BE%D0%B2_%D0%9C%D0%94-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE.pdf?dl=0">Э.Э. Шноль. "А.Г. Гривцов и молекулярная динамика - начало"</a><br>
+</details>
+<details><summary><ins>Additional reading</ins></summary>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820920/#__sec1title">An Introduction to Biological NMR Spectroscopy</a><br>
 </details>
 
@@ -289,17 +282,21 @@ The course provides an overview of molecular modeling and simulations methods in
 </details> -->
 
 
-### Assessments
+### Assessment
 
-#### Criteria
-- Assignments - 35%
-- Final exam - 65%
+Оценка по курсу кумулятивная.
 
-#### Grades
-- Excellent: > 90%
-- Good: 70-90%
-- Satisfactory: 50%-70%
-- Fail: <50%
+- Домашние работы  - 40% 
+- Промежуточная контрольная работа (24 октября 2023 - онлайн) - 20% оценки
+- Экзамен - 40%
+
+Каждый оценочный элемент по умолчанию оценивается по 80 бальной шкале, что соответствует максимальной оценке 8 из 10.
+Дополнительные баллы для оценки 9 или 10 можно получить:
+1) в домашних работах выполняя дополнительное(ые) задания со звездочкой.
+2) в промежуточной контрольной работе и экзамене отвечая на вопросы, которые сформулированы не на основе материалов лекций, а на основе списка литератры, предложенного к прочтению для данной лекции (suggeste reading).
+
+
+
 
  
 
