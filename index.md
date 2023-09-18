@@ -59,16 +59,10 @@ The course provides an overview of molecular modeling and simulations methods in
  7. [Gromacs](https://www.gromacs.org) installed locally.
 
 ### Course calendar
-- Dates: 12/09/2023; 19/09/2023 ; 26/09/2023 ; 3/10/2023 ; 17/10/2021 ; 24/10/2023 ; 7/11/2023 ; 14/11/2023 ; 21/11/2023 ; 28/11/2023 ; 5/12/2023 ; 12/12/2023 ; 19/12/2023;  
+- Dates: 12/09/2023; 19/09/2023 ; 26/09/2023 ; 3/10/2023 ; 17/10/2021 ; 24/10/2023 (mid-term test) ; 7/11/2023 ; 14/11/2023 ; 21/11/2023 ; 28/11/2023 ; 5/12/2023 ; 12/12/2023 ; 19/12/2023;  
 
 ### Attendance policy
 - Attending lectures and seminars is strongly encouraged.
-
-### Assignments policy
-- Assignments are due in two weeks.
-- Assignments should be uploaded via [this link](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
-- Assignments are graded on a 100 point scale
-- Late policy: 10 points are deducted for every week the assignment is late. 
 
 ### Course program (in Russian)
 
@@ -81,9 +75,9 @@ The course provides an overview of molecular modeling and simulations methods in
 
 </details>
      
-<details><summary><ins>Семинар 1</ins> Использование ЭВМ и доступ к ним, установка, настройка программ и сред </summary> Использование ОС Линукс, подключение к вычислительному кластеру, SSH, X2GO, установка и компиляция программ. Использование репозиториев, GitHub. Установка и использование программ визуализации структур.
+<details><summary><ins>Семинар 1</ins> Оргвопросы. Использование ЭВМ и доступ к ним, установка, настройка программ и сред </summary> Использование ОС Линукс, установка и компиляция программ. Использование репозиториев, GitHub. Установка и использование программ визуализации структур.
      
-- <a href="https://intbio.org/mol_model_course_2023/workshops/workshop1"> Протокол семинара </a>
+<!--- <a href="https://intbio.org/mol_model_course_2023/workshops/workshop1"> Протокол семинара </a> --->
      
 </details>
 
@@ -296,7 +290,11 @@ The course provides an overview of molecular modeling and simulations methods in
 2) в промежуточной контрольной работе и экзамене отвечая на вопросы, которые сформулированы не на основе материалов лекций, а на основе списка литератры, предложенного к прочтению для данной лекции (suggeste reading).
 
 
-
+### Assignments policy
+- Assignments are due in two weeks.
+- Assignments should be uploaded via [this link](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
+- Assignments are graded on a 100 point scale
+- Late policy: 10 points are deducted for every week the assignment is late. 
 
  
 
