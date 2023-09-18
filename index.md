@@ -89,6 +89,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <details><summary><ins>Suggested reading</ins></summary>
      
 - <a href="https://www.dropbox.com/s/vlkpzaiz0twzlsl/mol_model_history.pdf?dl=0">Методы молекулярного и интегративного моделирования в структурной биологии</a>
+<br>
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980623/">John Kendrew and myoglobin: Protein structure determination in the 1950s</a><br>
 - <a href="https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.12796">A brief history of macromolecular crystallography, illustrated by a family tree and its Nobel fruits</a><br>
 - <a href="https://library.lanl.gov/cgi-bin/getfile?00326866.pdf">Metropolis, N. The Beginnig of the Monte Carlo Method</a><br>
