@@ -62,6 +62,10 @@ Each student should take a unique problem.
 
 [Ссылка для записи выбранного задания](https://docs.google.com/spreadsheets/d/1bwgIFdAGaqwZIRV_e6Oj4_r9xcj3EWDNmscxLoHLLwc/edit?usp=sharing)
 
+Задание на оценку 9-10:
+1) Проведите анализ консервативности белковой последовательности, представьте результаты в 1Д представлении (на последловательности) и в 3Д раскраска по консервативности. Подсказка по [ссылке](https://pymolwiki.org/index.php/Color_by_conservation)
+2) Напишите скрипт или пайплайн для создание видео, в котором Ваша структура будет вращаться.
+
 ### Troubleshooting
 - Consult with the seminar protocol/recording
 - Try to Google, and see Pymol Wiki
