@@ -294,7 +294,7 @@ The course provides an overview of molecular modeling and simulations methods in
 ### Assignments policy
 - Assignments are due in two weeks.
 - Assignments should be uploaded via [this link](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
-- Assignments are graded on a 100 point scale
+- Assignments are graded on a 80 point scale + 20 points for advanced tasks.
 - Late policy: 10 points are deducted for every week the assignment is late. 
 
  
