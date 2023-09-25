@@ -99,7 +99,7 @@ The course provides an overview of molecular modeling and simulations methods in
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820920/#__sec1title">An Introduction to Biological NMR Spectroscopy</a><br>
 </details>
 
-#### Модуль 2. Структурная биоинформатика (2 недели).
+#### Модуль 2. Структурная биоинформатика (3 недели).
 <details><summary><ins>Лекция 2</ins></summary> Форматы хранения информации о структуре молекул (PDB, mmCIF, mol2, Z-матрицы и др.). Формат PDB, поля формата. Происхождение структурной информации, основные экспериментальные методы, представление данных. Основы методов РСА, ЯМР, криоЭМ. Элементарная ячейка кристалла, асиметричная единица, понятие BioAssembly, кристаллографическая и некристаллографическая симметрии структур. PDB: B-факторы, occupancy. PDB: специфика ЯМР структур. Правила описания белков, нуклеиновых кислот, липидов, лигандов. Тяжелоатомные и протонированные модели. Протонирование моделей. Базы данных структур. Базы PDB, NDB, MMDB, CCDC, EMDB. Поиск в базах данных, поиск по последовательности и по структуре. Форматы записи электронной плотности. Типичные проблемы в структурах, ротамеры боковых цепей. Определение качества PDB структур. Программы анализа качества структур. 
 
 
@@ -120,9 +120,29 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="workshops/pymol">Описание и протокол семинара.</a>
 </details>
 
+<details><summary><ins>Самостоятельная работа 1</ins></summary> 
+см. описание семинара
+</details>
+
+<details><summary><ins>Лекция 3</ins> Продожение лекции 2.</summary> Методы ЯМР. КриоЭМ. Особенности структур, полученных этими методами. Различные биомолекулы и их представление в PDB.
+
+<a href="https://www.dropbox.com/scl/fi/c943pkect7qy5ix1tuoqx/Lecture2.ppt?rlkey=lqztcfokgeq1ezlhs0putejnx&dl=0">Слайды лекции.</a> 
+</details>
+     
+<details><summary><ins>Семинар 2</ins> Работа в программе Chimera</summary> 
+
+<br>
+<a href="workshops/">Протокол семинара.</a>
+</details>
+
 <details><summary><ins>Самостоятельная работа 2</ins></summary> 
 см. описание семинара
 </details>
+<details><summary><ins>Suggested reading/watching</ins></summary>
+- <a href="https://mediatheque.lindau-nobel.org/recordings/36140/lecture-nmr-physics-structural-biology">Kurt Wutrich on NMR</a>
+- <a href="https://link.springer.com/article/10.1007/s00216-018-0899-8">CryoEM</a>
+</details>
+
 
 <details><summary><ins>Лекция 3</ins> Анализ и сравнительный анализ 3D-структур.</summary> Виды визуализации структур, стерео-представление, ray-tracing. Определение вторичной структуры. Карты Рамачандрана.  Поверхность доступная растворителю. Водородные связи. Карты контактов. Структурные выравнивания и среднеквадратичное отклонение. Идентификация структурных доменов. Базы данных CDD и PFAM. Структурная классификация доменов (SCOP, CATH). Идентификация полостей и сайтов связывания. Электростатический и гидрофобный потенциалы. Определение состояний протонирования. Анализ симметрии. Анализ динамики, нормальные моды. Оценка свободной энергии сворачивания. Определение мультимеров.
 
