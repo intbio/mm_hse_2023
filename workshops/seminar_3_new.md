@@ -18,7 +18,7 @@
 - 3-button mouse
 
 ## Learning resources
-- [Chimera User's Guide] (https://www.cgl.ucsf.edu/chimera/current/docs/UsersGuide/)
+- [Chimera User's Guide](https://www.cgl.ucsf.edu/chimera/current/docs/UsersGuide/)
 
 ## Assignments
 
