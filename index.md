@@ -129,10 +129,10 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="https://www.dropbox.com/scl/fi/c943pkect7qy5ix1tuoqx/Lecture2.ppt?rlkey=lqztcfokgeq1ezlhs0putejnx&dl=0">Слайды лекции.</a> 
 </details>
      
-<details><summary><ins>Семинар 2</ins> Работа в программе Chimera</summary> 
+<details><summary><ins>Семинар 3</ins> Работа в программе Chimera</summary> 
 
 <br>
-<a href="workshops/">Протокол семинара.</a>
+<a href="workshops/seminar_3_new.md">Протокол семинара.</a>
 </details>
 
 <details><summary><ins>Самостоятельная работа 2</ins></summary> 
