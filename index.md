@@ -132,7 +132,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <details><summary><ins>Семинар 3</ins> Работа в программе Chimera</summary> 
 
 <br>
-<a href="workshops/seminar_3_new.md">Протокол семинара.</a>
+<a href="workshops/seminar_3_new">Протокол семинара.</a>
 </details>
 
 <details><summary><ins>Самостоятельная работа 2</ins></summary> 
