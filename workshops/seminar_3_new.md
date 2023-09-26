@@ -1,5 +1,5 @@
 # Workshop 3. Visualization of 3D structures in Chimera.
-
+ 
 ## Workshop plan
 - An introduction to using Chimera to vizualize and manipulate 3D PDB structures
 - Chimera user interface orientation
