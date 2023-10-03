@@ -159,7 +159,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="workshops/3Dstruct_analysis/index">Протокол семинара.</a>
 </details>
 
-<details><summary><ins>Самостоятельная работа 3.1-3.2</ins></summary> 
+<details><summary><ins>Самостоятельная работа 3</ins></summary> 
 см. описание семинара
 </details>
 <details><summary><ins>Suggested reading</ins></summary>
