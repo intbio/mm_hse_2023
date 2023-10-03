@@ -153,10 +153,10 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="https://www.dropbox.com/s/t93ok6dovz55j8a/Lecture3.ppt?dl=0">Слайды лекции.</a> 
 </details>
      
-<details><summary><ins>Семинар 4.1-4.2</ins> Анализ и сравнительный анализ 3D-структур.</summary> 
+<details><summary><ins>Семинар 4</ins> Анализ и сравнительный анализ 3D-структур.</summary> 
 Работа с библиотекой MDAnalysis. Расчет растояний, углов, контактов. Расчет RMSD. Стркутурное выравнивание. Работа в программе Chimera. Структурные выранивания, струкутрное выравнивание последовательностей. Добавление водородов, программа REDUCE. Добавление зарядов, PDB2PQR. Рассчет pK, PROPKA. Расчет электростатического потенциала, APBS. Поиск водородных связей. Библиотека Prody. Анализ нормальных мод. Поиск родственных структур, определение консервативных остатков, визуализация.
 <br>
-<a href="workshops/3Dstruct_analysis">Протокол семинара.</a>
+<a href="workshops/3Dstruct_analysis/index.md">Протокол семинара.</a>
 </details>
 
 <details><summary><ins>Самостоятельная работа 3.1-3.2</ins></summary> 
