@@ -140,6 +140,7 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 <details><summary><ins>Suggested reading/watching</ins></summary>
 - <a href="https://mediatheque.lindau-nobel.org/recordings/36140/lecture-nmr-physics-structural-biology">Kurt Wutrich on NMR</a>
+    <br>
 - <a href="https://link.springer.com/article/10.1007/s00216-018-0899-8">CryoEM</a>
 </details>
 <details><summary><ins>Additional reading</ins></summary>
@@ -164,6 +165,7 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 <details><summary><ins>Suggested reading</ins></summary>
  - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC208735/">D. Eisenberg, The discovery of the α-helix and β-sheet, the principal structural features of proteins</a>
+    <br>
  -  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065323308605203">J.S. Richardson, The Anatomy and Taxonomy of Protein Structure</a>
 </details>
 
