@@ -99,11 +99,11 @@ The course provides an overview of molecular modeling and simulations methods in
 - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820920/#__sec1title">An Introduction to Biological NMR Spectroscopy</a><br>
 </details>
 
-#### Модуль 2. Структурная биоинформатика (3 недели).
+#### Модуль 2. Структурная биоинформатика (4 недели).
 <details><summary><ins>Лекция 2</ins></summary> Форматы хранения информации о структуре молекул (PDB, mmCIF, mol2, Z-матрицы и др.). Формат PDB, поля формата. Происхождение структурной информации, основные экспериментальные методы, представление данных. Основы методов РСА, ЯМР, криоЭМ. Элементарная ячейка кристалла, асиметричная единица, понятие BioAssembly, кристаллографическая и некристаллографическая симметрии структур. PDB: B-факторы, occupancy. PDB: специфика ЯМР структур. Правила описания белков, нуклеиновых кислот, липидов, лигандов. Тяжелоатомные и протонированные модели. Протонирование моделей. Базы данных структур. Базы PDB, NDB, MMDB, CCDC, EMDB. Поиск в базах данных, поиск по последовательности и по структуре. Форматы записи электронной плотности. Типичные проблемы в структурах, ротамеры боковых цепей. Определение качества PDB структур. Программы анализа качества структур. 
 
 
-<a href="https://www.dropbox.com/scl/fi/c943pkect7qy5ix1tuoqx/Lecture2.ppt?rlkey=lqztcfokgeq1ezlhs0putejnx&dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/s/ot03xmpiao36nuw/Lecture2-3.ppt?dl=0">Слайды лекции.</a> 
 </details>
 <details><summary><ins>Suggested reading</ins></summary>
   - <a href="https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction">Introduction to PDB Data</a>
@@ -126,7 +126,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <details><summary><ins>Лекция 3</ins> Продолжение лекции 2.</summary> Методы ЯМР. КриоЭМ. Особенности структур, полученных этими методами. Различные биомолекулы и их представление в PDB.
 
-<a href="https://www.dropbox.com/scl/fi/c943pkect7qy5ix1tuoqx/Lecture2.ppt?rlkey=lqztcfokgeq1ezlhs0putejnx&dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/s/ot03xmpiao36nuw/Lecture2-3.ppt?dl=0">Слайды лекции.</a> 
 </details>
      
 <details><summary><ins>Семинар 3</ins> Работа в программе Chimera</summary> 
@@ -150,7 +150,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <details><summary><ins>Лекция 4-5</ins> Анализ и сравнительный анализ 3D-структур.</summary> Виды визуализации структур, стерео-представление, ray-tracing. Определение вторичной структуры. Карты Рамачандрана.  Поверхность доступная растворителю. Водородные связи. Карты контактов. Структурные выравнивания и среднеквадратичное отклонение. Идентификация структурных доменов. Базы данных CDD и PFAM. Структурная классификация доменов (SCOP, CATH). Идентификация полостей и сайтов связывания. Электростатический и гидрофобный потенциалы. Определение состояний протонирования. Анализ симметрии. Анализ динамики, нормальные моды. Оценка свободной энергии сворачивания. Определение мультимеров.
 
-<a href="https://www.dropbox.com/s/t93ok6dovz55j8a/Lecture3.ppt?dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/scl/fi/y7gmpe5z1iulsjo4qlkvw/Lecture4-5.ppt?rlkey=n3t8j4o7z594ryu1urz015s8c&dl=0">Слайды лекции.</a> 
 </details>
      
 <details><summary><ins>Семинар 4-5</ins> Анализ и сравнительный анализ 3D-структур.</summary> 
@@ -167,8 +167,27 @@ The course provides an overview of molecular modeling and simulations methods in
  -  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065323308605203">J.S. Richardson, The Anatomy and Taxonomy of Protein Structure</a>
 </details>
 
+#### Модуль 3. Предсказание  структуры белков (1 неделя).
 
-#### Модуль 3. Методы молекулярной механики и динамики (4 недели).
+<details><summary><ins>Лекция 6</ins> Методы предсказания структры белков.</summary> Моделирование по гомологии. Создание выравнивания. Оценка качества модели. Детекция фолда. Протягивание. Скрытые марковские модели. Нейросети. Физические методы моделирования и предсказания.
+<a href="https://www.dropbox.com/scl/fi/j6i3z7gu5w40egg0rk838/Lecture6.ppt?rlkey=hf71veo2bsduubjlftg982aqh&dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
+</details>
+     
+<details><summary><ins>Семинар 6</ins> Знакомство с программами Modeller и AlphaFold.</summary> Знакомство с программой Modeller. Построение структурных моделей по гомологии с с известными структурами.  
+<a href="workshops/Modeller">Протокол семинара.</a>
+</details>
+
+<details><summary><ins>Самостоятельная работа 5</ins></summary> 
+см. описание семинара
+</details>
+
+<details><summary><ins>Suggested reading</ins></summary>
+ - <a href="https://www.frontiersin.org/articles/10.3389/fbinf.2023.1120370/full">Mini-review: before and after AlphaFold2</a>
+ -  <a href="https://www.nature.com/articles/s41594-022-00849-w">A structural biology community assessment of AlphaFold2 applications</a>
+</details>
+
+
+#### Модуль 4. Методы молекулярной механики и динамики (4 недели).
 
 <details><summary><ins>Лекция 4</ins> Теоретические основы методов молекулярной механики и динамики. Задание моделей молекул. </summary> Молекулярно-механические модели, границы применимости. Основы классической механики: материальные точки, законы Ньютона, силы, энергия, Гамильтониан, обобщенные переменные, координаты реакции. Методы минимизации энергии. Уравнения движения. Траектории движения частиц, фазовое пространство. Численные подходы к решению уравнений движения. Алгоритмы Эйлера, Верле, Лип-Фрог. Неустойчивость траектроий и хаос. Обратимость по времени уравнений движения.  Типы взаимодействий в молекулярных системах.  Понятие силового поля и топологии молекулы. Единицы длины, времени, энергии. Основные типы взаимодействий: валентные, невалентные взаимодействия, связи, валентные, торсионные, ложноторсионные углы, потенциал Леннард-Джонса, заряды. Проблема учета электростатических взаимодействий. Силовые поля класса II. Поляризуемые силовые поля. Модели воды. Неявный растворитель. Основы статистической физики: распределение Больцмана-Гиббса, понятие энтропии, второй закон термодинамики. Парадокс обратимости. Гипотеза эргодичности. Понятие термодинамического ансамбля. Понятие свободной энергии, работы. Профили свободной энергии, потенциал средней силы. Неравновесные процессы. Равенство Джарзинского. 
 
@@ -224,7 +243,7 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 
 
-#### Модуль 4. Предсказание и дизайн структуры белков (2 недели).
+#### Модуль 3. Дизайн структуры белков (2 недели).
 
 <details><summary><ins>Лекция 8</ins> Методы предсказания структры белков.</summary> Моделирование по гомологии. Создание выравнивания. Оценка качества модели. Детекция фолда. Протягивание. Скрытые марковские модели. Нейросети. Физические методы моделирования и предсказания.
 <a href="https://www.dropbox.com/s/3qiewrq9ahzczcw/Lecture8-9.ppt?dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
