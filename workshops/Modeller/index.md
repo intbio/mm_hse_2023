@@ -16,8 +16,12 @@
 - [modeller.ipynb](modeller.ipynb)
 
 ## AlphaFold2  
+- [Collab notebook](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 - [CollabFold paper](https://www.biorxiv.org/content/10.1101/2021.08.15.456425v2)
 - [ChimeraX example](https://www.youtube.com/watch?v=le7NatFo8vI&ab_channel=UCSFChimeraX)
+
+## Swiss-Model  
+- [Web server]([https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb](https://swissmodel.expasy.org/))
 
 ## Required software and resources
 - Access to a Jupyter notebook evironment with Python 3, modeller, MDanalysis, nglview, Bio libraries 
@@ -25,7 +29,8 @@
 - To install modeller run in your conda environment "conda install -c salilab modeller", use license key "MODELIRANJE"
 
 ## Learning resources
-- [Tutorials](https://salilab.org/modeller/tutorial/)
+- [Modeller tutorial](https://salilab.org/modeller/tutorial/)
+- [Swiss-Model tutorial](https://swissmodel.expasy.org/docs/examples)
 - [DOPE (Discrete Optimized Protein Energy) method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242414/pdf/2507.pdf)
 
 ## Assignments
