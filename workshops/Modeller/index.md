@@ -20,9 +20,9 @@
 - [ChimeraX example](https://www.youtube.com/watch?v=le7NatFo8vI&ab_channel=UCSFChimeraX)
 
 ## Required software and resources
-- Access to a Jupyter notebook evironment with Python 3, modeller, MDanalysis, nglview, Bio libraries
-- Access to Newton cluster
-- Access to Google collab with GPUs 
+- Access to a Jupyter notebook evironment with Python 3, modeller, MDanalysis, nglview, Bio libraries 
+- Access to Google collab with GPUs
+- To install modeller run in your conda environment "conda install -c salilab modeller", use license key "MODELIRANJE"
 
 ## Learning resources
 - [Tutorials](https://salilab.org/modeller/tutorial/)
