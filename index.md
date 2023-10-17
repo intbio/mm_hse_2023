@@ -183,6 +183,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <details><summary><ins>Suggested reading</ins></summary>
  - <a href="https://www.frontiersin.org/articles/10.3389/fbinf.2023.1120370/full">Mini-review: before and after AlphaFold2</a>
+  <br>
  -  <a href="https://www.nature.com/articles/s41594-022-00849-w">A structural biology community assessment of AlphaFold2 applications</a>
 </details>
 
