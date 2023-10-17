@@ -1,4 +1,4 @@
-# Workshop: Protein structure modelling in Modeller
+# Workshop: Protein structure modelling in Modeller, CollabFold, SwissModel
 
 ## Description
 - We will obtain protein structure based on templates
