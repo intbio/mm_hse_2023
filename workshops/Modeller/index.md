@@ -1,4 +1,4 @@
-# Workshop: Protein structure modelling in Modeller, CollabFold, SwissModel
+# Workshop: Protein structure modeling in Modeller, CollabFold, SwissModel
 
 ## Description
 - We will obtain protein structure based on templates
@@ -34,10 +34,13 @@
 - [DOPE (Discrete Optimized Protein Energy) method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242414/pdf/2507.pdf)
 
 ## Assignments
-
 Modeller (based on tutorial)
 1. Build model for lactate dehydrogenase from Trichomonas vaginalis (TvLDH) based on a single template. Perfom loop refine by LoopModel, DopeLoopModel. 
 2. Compare plots of energy score (DOPE) for model, template, model with auto loop refine, model with Dope loop refine.
+
+Select your protein sequence for modeling structure
+1. Find protein of your interest, BLAST it with "NON-REDUNDANT PROTEIN SEQUENCES" database and choose a sequence with 60% identity or less.
+2. BLAST the chosen sequence with "PROTEIN DATA BANK PROTEINS" database to check if it contains the 3D structure for your sequence (it must NOT have 3D structure in PDB).
 
 AlphaFold2 
 1. Predict 3D structure of your protein (choose small one or fragment); use one of ChimeraX or Collab. Add sequence coverage plot and structure image.  
