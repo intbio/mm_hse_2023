@@ -39,7 +39,7 @@ Modeller (based on tutorial)
 2. Compare plots of energy score (DOPE) for model, template, model with auto loop refine, model with Dope loop refine.
 
 Select YOUR PROTEIN sequence for modeling structure
-1. Find protein of your interest, BLAST it with "NON-REDUNDANT PROTEIN SEQUENCES" database and choose a sequence with 60% identity or less.
+1. Find protein of your interest, [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) it with "NON-REDUNDANT PROTEIN SEQUENCES" database and choose a sequence with 60% identity or less.
 2. BLAST the chosen sequence with "PROTEIN DATA BANK PROTEINS" database to check if it contains the 3D structure for your sequence (it must NOT have 3D structure in PDB).
 
 AlphaFold2 
