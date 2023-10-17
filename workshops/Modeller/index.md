@@ -49,4 +49,4 @@ Swiss-Model
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
-- Ask questions in Slack
+- Ask questions in Telegram
