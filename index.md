@@ -169,17 +169,6 @@ The course provides an overview of molecular modeling and simulations methods in
  -  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0065323308605203">J.S. Richardson, The Anatomy and Taxonomy of Protein Structure</a>
 </details>
 
-<details><summary><ins>Лекция 6</ins> Методы предсказания структры белков.</summary> Моделирование по гомологии. Создание выравнивания. Оценка качества модели. Детекция фолда. Протягивание. Скрытые марковские модели. Нейросети. Физические методы моделирования и предсказания.
-<a href="https://www.dropbox.com/s/3qiewrq9ahzczcw/Lecture8-9.ppt?dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
-</details>
-     
-<details><summary><ins>Семинар 6</ins> Знакомство с программами Modeller и AlphaFold.</summary> Знакомство с программой Modeller. Построение структурных моделей по гомологии с с известными структурами.  
-<a href="workshops/Modeller">Протокол семинара.</a>
-</details>
-
-<details><summary><ins>Самостоятельная работа 8</ins></summary> 
-см. описание семинара
-</details>
 
 #### Модуль 3. Предсказание  структуры белков (1 неделя).
 
