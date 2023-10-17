@@ -21,7 +21,7 @@
 - [ChimeraX example](https://www.youtube.com/watch?v=le7NatFo8vI&ab_channel=UCSFChimeraX)
 
 ## Swiss-Model  
-- [Web server]([https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb](https://swissmodel.expasy.org/))
+- [Web server](https://swissmodel.expasy.org/)
 
 ## Required software and resources
 - Access to a Jupyter notebook evironment with Python 3, modeller, MDanalysis, nglview, Bio libraries 
