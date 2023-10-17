@@ -45,7 +45,7 @@ AlphaFold2
 Swiss-Model
 1. Predict 3D structure of your protein. Compare with AlphaFold2 structure.
 
-* Repeat the Modeller task with your protein. Compare obtained structure with AlphaFold2 and Swiss-Model ones.
+(*) Repeat the Modeller task with your protein. Compare obtained structure with AlphaFold2 and Swiss-Model ones.
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
