@@ -176,7 +176,7 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="https://www.dropbox.com/scl/fi/j6i3z7gu5w40egg0rk838/Lecture6.ppt?rlkey=hf71veo2bsduubjlftg982aqh&dl=0">Слайды лекции.</a> <a href="https://example.com">Видеозапись.</a>
 </details>
      
-<details><summary><ins>Семинар 6</ins> Знакомство с программами Modeller и AlphaFold.</summary> Знакомство с программой Modeller. Построение структурных моделей по гомологии с с известными структурами.  
+<details><summary><ins>Семинар 6</ins> Знакомство с программами Modeller, AlphaFold и Swiss-Model.</summary> Знакомство с программами Modeller и Swiss-Model. Построение структурных моделей по гомологии с известными структурами. Знакомство с программой AlphaFold и построение структурных моделей с её помощью.
 <a href="workshops/Modeller">Протокол семинара.</a>
 </details>
 
