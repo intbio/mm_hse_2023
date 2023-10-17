@@ -38,17 +38,17 @@ Modeller (based on tutorial)
 1. Build model for lactate dehydrogenase from Trichomonas vaginalis (TvLDH) based on a single template. Perfom loop refine by LoopModel, DopeLoopModel. 
 2. Compare plots of energy score (DOPE) for model, template, model with auto loop refine, model with Dope loop refine.
 
-Select your protein sequence for modeling structure
+Select YOUR PROTEIN sequence for modeling structure
 1. Find protein of your interest, BLAST it with "NON-REDUNDANT PROTEIN SEQUENCES" database and choose a sequence with 60% identity or less.
 2. BLAST the chosen sequence with "PROTEIN DATA BANK PROTEINS" database to check if it contains the 3D structure for your sequence (it must NOT have 3D structure in PDB).
 
 AlphaFold2 
-1. Predict 3D structure of your protein (choose small one or fragment); use one of ChimeraX or Collab. Add sequence coverage plot and structure image.  
+1. Predict 3D structure of YOUR PROTEIN (choose small one or fragment); use one of ChimeraX or Collab. Add sequence coverage plot and structure image.  
 
 Swiss-Model
-1. Predict 3D structure of your protein. Compare with AlphaFold2 structure.
+1. Predict 3D structure of YOUR PROTEIN. Compare with AlphaFold2 structure. Do NOT use AlphaFold structures as a template, only experimental ones!
 
-(*) Repeat the Modeller task with your protein. Compare obtained structure with AlphaFold2 and Swiss-Model ones.
+(*) Repeat the Modeller task with YOUR PROTEIN. Compare obtained structure with AlphaFold2 and Swiss-Model ones. Do NOT use AlphaFold structures as a template, only experimental ones!
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
