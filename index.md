@@ -200,6 +200,9 @@ The course provides an overview of molecular modeling and simulations methods in
   <br>
  -  <a href="https://www.nature.com/articles/s41594-022-00849-w">A structural biology community assessment of AlphaFold2 applications</a>
 </details>
+<details><summary><ins>Additional reading</ins></summary>
+ - <a href="https://habr.com/en/articles/599703/">Разбор Алгоритов Альфа Фолд на Харбре AS IS</a>
+</details>
 
 
 #### Модуль 4. Методы молекулярной механики и динамики (4 недели).
