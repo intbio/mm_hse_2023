@@ -42,6 +42,10 @@ Modeller (based on tutorial)
 AlphaFold2 
 1. Predict 3D structure of your protein (choose small one or fragment); use one of ChimeraX or Collab. Add sequence coverage plot and structure image.  
 
+Swiss-Model
+1. Predict 3D structure of your protein. Compare with AlphaFold2 structure.
+
+* Repeat the Modeller task with your protein. Compare obtained structure with AlphaFold2 and Swiss-Model ones.
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
