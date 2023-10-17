@@ -4,13 +4,13 @@
 - We will obtain protein structure based on templates
 - Duration: 60 minutes
 - Objectives: be able to 
-    - Prepare protein sequences for Modeller.
-    - Select a template based on sequence identity comparison.
+    - Prepare protein sequences for Modeller
+    - Select a template based on sequence identity comparison
     - Align target sequence with the template
-    - Model building.
-    - Model evaluation.
-    - CollabFold usage 
-    - AlphaFold2 application using ChimeraX 
+    - Model building
+    - Model evaluation
+    - CollabFold usage
+    - Swiss-Model usage
 
 ## Jupyter notebook
 - [modeller.ipynb](modeller.ipynb)
