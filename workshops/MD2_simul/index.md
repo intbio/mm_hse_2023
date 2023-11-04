@@ -19,7 +19,7 @@
 
 ## Required software and resources
 - Access to a Jupyter notebook evironment with Python 3, MDanalysis, nglview libraries
-- Access to Newton cluster with Gromacs installed or install Gromacs at your local workstation. See [http://www.gromacs.org](http://www.gromacs.org)
+- Install Gromacs at your local workstation using "conda install -c conda-forge -c intbio gromacs=2018.3" command
 
 ## Learning resources
 - Short Gromacs tutorial [https://github.com/intbio/MolModEdu/tree/master/GROMACS/beginner](https://github.com/intbio/MolModEdu/tree/master/GROMACS/beginner)
@@ -42,4 +42,4 @@ Each student should take a unique PDB structure  at his/her own discretion.
 
 ### Troubleshooting
 - Consult with the seminar protocol/recording
-- Ask questions in Slack
+- Ask questions in Telegram
