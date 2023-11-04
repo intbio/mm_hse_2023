@@ -18,8 +18,8 @@
 - [MD.ipynb](MD.ipynb)
 
 ## Required software and resources
-- Access to a Jupyter notebook evironment with Python 3, MDanalysis, nglview libraries
-- Install Gromacs at your local workstation using "conda install -c conda-forge -c intbio gromacs=2018.3" command
+- Access to a Jupyter notebook environment with Python 3, MDanalysis, nglview libraries
+- Install Gromacs in your conda environment using "conda install -c conda-forge -c intbio gromacs=2018.3" command
 
 ## Learning resources
 - Short Gromacs tutorial [https://github.com/intbio/MolModEdu/tree/master/GROMACS/beginner](https://github.com/intbio/MolModEdu/tree/master/GROMACS/beginner)
