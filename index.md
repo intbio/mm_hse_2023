@@ -250,7 +250,12 @@ The course provides an overview of molecular modeling and simulations methods in
 <details><summary><ins>Лекция 10</ins> Методы Монте-Карло. Вариации методов МД.</summary> Методы Монте-Карло. Методы марковских цепей Монте-Карло (Markov chain Monte-Carlo). Критерий Метрополиса-Хастингса. Методы улучшения возмжоностей статистических выборок (enhanced sampling techniques). Вычислительный отжиг (simulated annealing). Методы обмена репликами (Replica Exchange, Parallel tempering.). Метод зонтичной выборки (umbrella sampling, WHAM).  Метод адаптивной семщающей силы (ABF, adaptive biasing force). Различные виды коллективных переменных. Метод управляемой МД (steered MD). Адиабатически смещенная МД (adiabatic bias MD). Метод метадинамики. Метод ускоренной МД (accelerated MD). Методы расчета свободной энергии. Примеры оценки термодинамических параметров и профилей свободной энергии. Огрубленное моделирование. Мультимасштабное моделирование.
 <a href="https://www.dropbox.com/s/hzqcsfq87lanxr6/lecture7.ppt?dl=0">Слайды лекции.</a>
 </details>
-     
+
+<details><summary><ins>Suggested reading</ins></summary>
+ - <a href="https://www.sciencedirect.com/science/article/pii/S0959440X22001762?via%3Dihub">Chen et al. Enhancing sampling with free-energy calculations"</a>
+
+</details>
+
 <details><summary><ins>Семинар 10</ins> Using PLUMED for enhanced sampling.</summary> 
 <a href="workshops/MD4_PLUMED">Протокол семинара.</a>
 </details>
