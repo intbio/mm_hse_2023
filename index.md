@@ -218,7 +218,12 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <a href="https://www.dropbox.com/scl/fi/ztk8iyxjxz6v6v56vfaeo/Lecture9.ppt?rlkey=px9doc3gkoll7oh365hhy5jei&dl=0">Слайды лекции.</a> 
 </details>
-     
+
+<details><summary><ins>Suggested reading</ins></summary>
+ - <a href="https://istina.msu.ru/download/351391578/1r5B8A:dUya1AErGnuxjXu4Zr1q9H1GCCM/">стр. 38 - 55. Диссертация "Интегративное моделирование структуры и динамики биомакромолекулярных комплексов"</a>
+    <br>
+</details>
+
 <details><summary><ins>Семинар 9</ins> Анализ расчетов в MDAnalysis.</summary> 
 <a href="workshops/MD3_analysis">Протокол семинара.</a>
 </details>
