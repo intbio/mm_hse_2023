@@ -221,6 +221,7 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <details><summary><ins>Suggested reading</ins></summary>
  - <a href="https://istina.msu.ru/download/351391578/1r5B8A:dUya1AErGnuxjXu4Zr1q9H1GCCM/">стр. 38 - 55. Диссертация "Интегративное моделирование структуры и динамики биомакромолекулярных комплексов"</a>
+   - <a href="https://www.cell.com/action/showPdf?pii=S0896-6273%2818%2930684-6">Hollingsworth et al. Molecular Dynamics Simulation for All"</a> 
     <br>
 </details>
 
