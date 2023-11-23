@@ -21,7 +21,7 @@
 - Access to a Jupyter notebook evironment with Python 3, MDanalysis, nglview and Gromacs
 
 ## Learning resources
-- [MD Analysis tutorials](https://www.mdanalysis.org/MDAnalysisTutorial/) 
+- [MD Analysis tutorials](https://www.mdanalysis.org/pages/learning_MDAnalysis/) 
 
 
 ## Assignments
