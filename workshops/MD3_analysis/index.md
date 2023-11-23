@@ -37,8 +37,8 @@ Following analyses of this system will be needed as an assignment:
 5. Plot RMSD matrix for MD frames; perform cluster analysis for mainchain+H atoms; visualize clusters and dynamics of systems transitions between them.
 6. Perform PCA: plot atom covariance matrix, eigenvalues plot, make vector implementations and make representing first eigenvectors snapshots.
 
-(*) Calcualte the number of hydrogen bonds within your protein and with water. Estimate average number (with uncertainty). Plot variation with time.
-    Estimate water diffusion coefficients from mean square displacement.
+* Calcualte the number of hydrogen bonds within your protein and with water. Estimate average number (with uncertainty). Plot variation with time.
+* Estimate water diffusion coefficients from mean square displacement.
 
 
 ### Troubleshooting
