@@ -238,14 +238,6 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="https://www.dropbox.com/s/bt58dd8th5ffse7/Lecture6.ppt?dl=0">Слайды лекции.</a> 
 </details>
      
-<details><summary><ins>Семинар 9</ins> Анализ расчетов в MDAnalysis (Практика).</summary> 
-<a href="workshops/MD_3_2_analysis">Протокол семинара.</a>
-</details>
-
-<details><summary><ins>Самостоятельная работа 8</ins></summary> 
-см. описание семинара
-</details>
-
 
 <details><summary><ins>Лекция 10</ins> Методы Монте-Карло. Вариации методов МД.</summary> Методы Монте-Карло. Методы марковских цепей Монте-Карло (Markov chain Monte-Carlo). Критерий Метрополиса-Хастингса. Методы улучшения возмжоностей статистических выборок (enhanced sampling techniques). Вычислительный отжиг (simulated annealing). Методы обмена репликами (Replica Exchange, Parallel tempering.). Метод зонтичной выборки (umbrella sampling, WHAM).  Метод адаптивной семщающей силы (ABF, adaptive biasing force). Различные виды коллективных переменных. Метод управляемой МД (steered MD). Адиабатически смещенная МД (adiabatic bias MD). Метод метадинамики. Метод ускоренной МД (accelerated MD). Методы расчета свободной энергии. Примеры оценки термодинамических параметров и профилей свободной энергии. Огрубленное моделирование. Мультимасштабное моделирование.
 <a href="https://www.dropbox.com/s/hzqcsfq87lanxr6/lecture7.ppt?dl=0">Слайды лекции.</a>
