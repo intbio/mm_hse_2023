@@ -244,7 +244,6 @@ The course provides an overview of molecular modeling and simulations methods in
 <br>
 - <a href="https://www.sciencedirect.com/science/article/pii/S0959440X22001762?via%3Dihub">Chen et al. Enhancing sampling with free-energy calculations"</a>
  
-    <br>
 </details>
 
 
