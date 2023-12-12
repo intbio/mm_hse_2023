@@ -275,7 +275,9 @@ The course provides an overview of molecular modeling and simulations methods in
 <a href="workshops/Docking">Протокол семинара.</a>
 </details>
 
-
+<br>
+Окончание курса
+<br>
 
 #### Модуль 3. Дизайн структуры белков (2 недели).
 
