@@ -240,7 +240,7 @@ The course provides an overview of molecular modeling and simulations methods in
 </details>
 
  <details><summary><ins>Suggested reading</ins></summary>
-- <a href="http://ambermd.org/doc12/Amber22.pdf">стр. 38 - 55. Руководство к программе Amber, рекомендации по силовым полям, раздел II.3 стр. 33-65</a>
+- <a href="http://ambermd.org/doc12/Amber22.pdf"> Руководство к программе Amber, рекомендации по силовым полям, раздел II.3 стр. 33-65</a>
 <br>
 - <a href="https://www.sciencedirect.com/science/article/pii/S0959440X22001762?via%3Dihub">Chen et al. Enhancing sampling with free-energy calculations"</a>
  
@@ -262,6 +262,13 @@ The course provides an overview of molecular modeling and simulations methods in
 
 <a href="https://www.dropbox.com/scl/fi/kedd8oq9bl9vzpnej7c17/Lecture11.ppt?rlkey=x0qcmf8vz8ozx8rw9inf47p9c&dl=0">Слайды лекции.</a>
 <a href="https://www.dropbox.com/s/ipc5tiewmmfal29/2021_lecture_Virtual_Screening_and_Molecular_Docking.pdf?dl=0">Слайды лекции. В.Н. Новоселецкого 2021 год</a>
+</details>
+
+ <details><summary><ins>Suggested reading</ins></summary>
+- <a href="https://autodock.scripps.edu/wp-content/uploads/sites/56/2022/04/AutoDock4.2.6_UserGuide.pdf"> Руководство к программе Autodock</a>
+<br>
+
+ 
 </details>
      
 <details><summary><ins>Семинар 11</ins> Знакомство с программами SwissDock и AutoDock Vina</summary> 
